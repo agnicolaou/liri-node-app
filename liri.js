@@ -108,4 +108,23 @@ var doWhatItSays = function () {
     });
 };
 
-doWhatItSays();
+var pick = function (caseData, functionData) {
+    switch (caseData) {
+        case "concert-this":
+            getMyBands(functionData);
+            break;
+        case "spotify-this-song":
+            getMeSpotify(functionData);
+            break;
+        case "movie-this":
+            getMeMovie(functionData);
+            break;
+        case "do-what-it-says":
+            doWhatItSays();
+            break;
+        default:
+            console.log("LIRI doesn't know that");
+    }
+};
+
+pick(process.argv[2], process.argv.slice(3).join(" "));
