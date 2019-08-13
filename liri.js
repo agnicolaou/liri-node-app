@@ -27,7 +27,7 @@ var getMeSpotify = function (songName) {
             }
 
             var songs = data.tracks.items;
-            console.log(songs)
+    
 
             for (var i = 0; i < songs.length; i++) {
                 console.log(i);
