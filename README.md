@@ -15,4 +15,7 @@ Welcome to the Liri app where you can easily request information on your favorit
 
 ### SCREEN SHOTS
 
-![concert-this screenshot]()
+![concert-this screenshot](images/concert%20this.png)
+![spotify-this-song screenshot](images/spotify%20this%20song.png)
+![movie-this screenshot](images/movie%20this.png)
+![do-what-it-says screenshot](images/do%20what%20it%20says.png)
