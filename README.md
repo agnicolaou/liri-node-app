@@ -1,6 +1,6 @@
 # liri-node-app
 
-## OVERVIEW
+## Overview
 Welcome to the Liri app where you can easily request information on your favorite music from artist/song info to upcoming tour dates.  Not a music person?  It's ok!  You can also request info on your favorite movies.
 
 ## Instructions
